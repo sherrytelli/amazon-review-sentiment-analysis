@@ -1,2 +1,5 @@
 #ignore packages.txt
 packages.txt
+
+#pictures
+*.png
