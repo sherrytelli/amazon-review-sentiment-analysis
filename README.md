@@ -8,6 +8,8 @@ This project implements a **machine learning-based sentiment analysis system** t
 
 The model is trained using traditional NLP techniques and deployed via a Python class for easy inference.
 
+> See the **full-stack** branch for information about how to deploy this project as a full stack application
+
 ---
 
 ## 📁 Project Structure
