@@ -4,3 +4,5 @@ packages.txt
 #pictures
 *.png
 
+#python cache
+/backend/__pycache__
